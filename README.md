@@ -3,3 +3,6 @@ rensyu
 
 
 this is rensyu
+
+and そして　nnnn
+
